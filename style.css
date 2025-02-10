@@ -151,7 +151,9 @@ body{
     background-color: rgb(139 , 1, 2);
     width: 9%;
     font-size: large;
-    color: white;
+    color: #ECECEC;
+    border:0px;
+    font-weight: 10;
 }
 
 .sezbottone{
